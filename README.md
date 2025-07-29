@@ -69,8 +69,8 @@ This project provides an automated solution for retrieving real-time currency ex
 ## 🌐 Let's Connect
 
 - 📫 Email: [shaikhmairaj075@gmail.com](mailto:shaikhmairaj075@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/mairaj-shaikh](https://www.https://www.linkedin.com/in/mairaj-shaikh-14b885324/)  
-- 💻 GitHub: [https://github.com/shaikhmairaj](https://https://github.com/shaikhmairaj)
+- 💼 LinkedIn: [linkedin.com/in/mairaj-shaikh](https://www.linkedin.com/in/mairaj-shaikh-14b885324/)  
+- 💻 GitHub: [https://github.com/shaikhmairaj](https://github.com/shaikhmairaj)
 
 ---
 
