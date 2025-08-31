@@ -34,7 +34,7 @@ Used Excel to classify data and draw business conclusions.
 
 ## 📈 Projects
 
-**🔹 Credit Card Fraud Detection Using Machine Learning**
+**🔹 Credit Card Fraud Detection Using Machine Learning**                                                                                                                               
 This project aims to build a fraud detection model using Logistic Regression to classify transactions as either fraudulent or genuine.The main focus is on data preprocessing, analysis, and model building.
 
 **🔹 Stock-Market-Kafka-Real-Time-Data-Engineering-Project**  
@@ -43,7 +43,7 @@ I have executed an End-To-End Data Engineering Project on Real-Time Stock Market
 **🔹 Twitter_Data_pipeline_using-Airflow**  
 In this project, we extract data using Twitter API, use python to transform data, deploy the code on Airflow/EC2 and save the final result on Amazon S3.
 
-**🔹Currency_Exchange_Rate-Pipeline-By-Snowflake-s3-Lambda**
+**🔹Currency_Exchange_Rate-Pipeline-By-Snowflake-s3-Lambda**                                                                                                                               
 This project provides an automated solution for retrieving real-time currency exchange rates and storing them in a structured format in Snowflake.
 
 ---
