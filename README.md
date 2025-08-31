@@ -27,7 +27,7 @@ Used Excel to classify data and draw business conclusions.
 
 **Languages**: Python, SQL, NoSQL, Shell Scripting  
 **Frameworks/Platforms**: Numpy,Pandas,Apache Airflow, Kafka, AWS Glue, Lambda, S3, Redshift,Snowflake  
-**Tools & Libraries**: Scikit-learn,TensorFlow,NLP:Hugging Face Transformers,PySpark, Git, Power BI 
+**Tools & Libraries**: Scikit-learn,TensorFlow,NLP:Hugging Face Transformers,PySpark, Git, Power BI.
 **Cloud Platforms**: Amazon Web Services (AWS)
 
 ---
