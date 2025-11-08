@@ -17,7 +17,7 @@ Working on designing and deploying cloud-native data solutions using AWS service
 
 **🔹 Associate Data Analyst @ Excelerate**  
 Clean and prepare raw data for effective analysis.
-Created a data dashboard using Tableau .
+Created a data dashboard using Tableau .                                                                                       
 Used Excel to classify data and draw business conclusions.
 
 
