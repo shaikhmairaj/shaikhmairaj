@@ -11,12 +11,12 @@ I'm a passionate about building intelligent systems and data-driven solutions. S
 
 ## 💼 My Experience
 
-**🔹 Cloud Data Engineer @ Saylani Tech**  
+**🔹 Data Engineer Intern @ Saylani Tech**  
 Built and optimized ETL pipelines using Apache Airflow and Spark, automating data ingestion and transformation for scalable analytics. 
 Working on designing and deploying cloud-native data solutions using AWS services and modern data architecture principles.
 
-**🔹 Internee Data Analyst @ Deloitte**  
-Completed a Deloitte job simulation involving data analysis and forensic technology.
+**🔹 Associate Data Analyst @ Excelerate**  
+Clean and prepare raw data for effective analysis.
 Created a data dashboard using Tableau .
 Used Excel to classify data and draw business conclusions.
 
@@ -25,7 +25,7 @@ Used Excel to classify data and draw business conclusions.
 
 ## 🛠️ Technical Skills
 
-**Languages**: Python, SQL, NoSQL, Shell Scripting  
+**Languages**: Python, SQL, Shell Scripting  
 **Frameworks/Platforms**: Numpy,Pandas,Apache Airflow, Kafka, AWS Glue, Lambda, S3, Redshift,Snowflake  
 **Tools & Libraries**: Scikit-learn,TensorFlow,NLP:Hugging Face Transformers,PySpark, Git, Power BI.                                                                                     
 **Cloud Platforms**: Amazon Web Services (AWS)
@@ -37,8 +37,10 @@ Used Excel to classify data and draw business conclusions.
 **🔹 Credit Card Fraud Detection Using Machine Learning**                                                                                                                               
 This project aims to build a fraud detection model using Logistic Regression to classify transactions as either fraudulent or genuine.The main focus is on data preprocessing, analysis, and model building.
 
-**🔹 Stock-Market-Kafka-Real-Time-Data-Engineering-Project**  
-I have executed an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.In this project, I've used different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
+**🔹 Ecommerce Sales Dashboard Power BI**  
+Built a comprehensive dashboard for an online super-store to visualize sales across India 
+Extracted and cleaned sales data, defined KPIs. 
+Designed interactive visuals to support project tracking, timeline monitoring and decision-making. 
 
 **🔹 Twitter_Data_pipeline_using-Airflow**  
 In this project, we extract data using Twitter API, use python to transform data, deploy the code on Airflow/EC2 and save the final result on Amazon S3.
