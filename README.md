@@ -1,75 +1,72 @@
 # 👋 Hi, I'm Mairaj Shaikh!
 
 ## About Me
-I'm a passionate about building intelligent systems and data-driven solutions. Skilled in Machine Learning, Deep Learning, and NLP, with hands-on experience in frameworks like TensorFlow, PyTorch, and Scikit-learn.
-- 🔹 Exploring LLMs, Generative AI, and MLOps to create scalable ML pipelines.
-- ☁️ Familiar with Data Engineering tools such as SQL, AWS (S3, Lambda, RDS),Power BI for analaysis and ETL workflows.
-- 📊 1+ years of experience in **data engineering**, working with high-volume datasets and real-time data systems.
-- 🧠 I enjoy learning and working in **AI, machine learning**, and cloud-based data infrastructure.
+I'm a Data Analyst and BI Developer passionate about turning operational and marketing data into decisions. Currently at **Minerva Research Solutions**, I track patient data, monitor call center performance, and support marketing lead reporting for compliance.
+
+- 📊 Hands-on experience building **PostgreSQL-driven dashboards** that combine data from multiple sources.
+- 📞 Directly contributed to **reducing missed calls** and **improving callback completion** through better tracking and reporting.
+- ⚙️ Skilled in **ETL/ELT, data cleaning & transformation, and API integration**.
+- 🧠 Comfortable across **Python, SQL, Power BI, Tableau, and Advanced Excel**.
+- 🔍 Domains: Call Center Analytics, Healthcare Data Reporting, Marketing (Meta) Lead Reporting, Compliance Reporting.
 
 ---
 
 ## 💼 My Experience
 
-**🔹 Data Engineer Intern @ Saylani Tech**  
-Built and optimized ETL pipelines using Apache Airflow and Spark, automating data ingestion and transformation for scalable analytics. 
-Working on designing and deploying cloud-native data solutions using AWS services and modern data architecture principles.
+**🔹 Junior Data Analyst @ Minerva Research Solutions** *(Jan 2026 – Present)*
+- Track and maintain patient data records across systems, ensuring accuracy for internal reporting and stakeholder review.
+- Monitor and report on call center performance (inbound/outbound), surfacing insights to support operational decisions.
+- Identified patterns in missed calls and callback follow-up, driving process changes that reduced missed calls and increased on-time callback completion.
+- Prepare Meta (Facebook) lead performance reports for the marketing team, supporting compliance and audit-ready reporting.
+- Write SQL queries in PostgreSQL to extract, clean, and combine data from multiple sources into dashboard-ready datasets.
+- Design and maintain Power BI dashboards unifying patient, call center, and marketing data into a single stakeholder view.
 
-**🔹 Associate Data Analyst @ Excelerate**  
-Clean and prepare raw data for effective analysis.
-Created a data dashboard using Tableau .                                                                                       
-Used Excel to classify data and draw business conclusions.
-
+**🔹 Associate Data Analyst Intern @ Excelerate** *(Aug 2025 – Sep 2025)*
+- Cleaned and prepared raw data for effective analysis, improving consistency and reliability of source datasets.
+- Conducted statistical analysis to extract meaningful insights from operational data.
+- Joined and consolidated multiple sheets and tables in Excel using Power Query for streamlined reporting.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages**: Python, SQL, Shell Scripting  
-**Frameworks/Platforms**: Numpy,Pandas,Apache Airflow, Kafka, AWS Glue, Lambda, S3, Redshift,Snowflake  
-**Tools & Libraries**: Scikit-learn,TensorFlow,NLP:Hugging Face Transformers,PySpark, Git, Power BI.                                                                                     
-**Cloud Platforms**: Amazon Web Services (AWS)
+**Languages & Querying**: Python, SQL, PostgreSQL, MySQL
+**BI & Reporting**: Power BI, Tableau, Advanced Excel, Power Query, Power Automate, Data Modeling
+**Data Engineering**: ETL/ELT, Data Cleaning & Transformation, API Integration, FastAPI, NumPy, Pandas
+**Domains**: Call Center Analytics, Healthcare Data Reporting, Marketing (Meta) Lead Reporting, Compliance Reporting
 
 ---
 
 ## 📈 Projects
 
-**🔹 Credit Card Fraud Detection Using Machine Learning**                                                                                                                               
-This project aims to build a fraud detection model using Logistic Regression to classify transactions as either fraudulent or genuine.The main focus is on data preprocessing, analysis, and model building.
+**🔹 Meta Leads Performance Dashboard** *(Minerva Research Solutions)*
+Combined three internal data sources (call center, enrollment, and Meta lead/marketing data) into a unified PostgreSQL data model. Built a cleaning and transformation pipeline, wrote SQL to uncover patterns across lead, enrollment, and call activity, and generated key metrics like cost per qualified lead and cost per enrollment. Delivered a final dashboard consolidating all insights for stakeholders.
 
-**🔹 Ecommerce Sales Dashboard Power BI**  
-Built a comprehensive dashboard for an online super-store to visualize sales across India 
-Extracted and cleaned sales data, defined KPIs. 
-Designed interactive visuals to support project tracking, timeline monitoring and decision-making. 
+**🔹 Airbnb Market Insights Dashboard**
+Built an interactive Tableau dashboard analyzing Airbnb listings, pricing trends, and availability, with filters and dynamic charts to compare locations and property types.
 
-**🔹 Twitter_Data_pipeline_using-Airflow**  
-In this project, we extract data using Twitter API, use python to transform data, deploy the code on Airflow/EC2 and save the final result on Amazon S3.
-
-**🔹Currency_Exchange_Rate-Pipeline-By-Snowflake-s3-Lambda**                                                                                                                               
-This project provides an automated solution for retrieving real-time currency exchange rates and storing them in a structured format in Snowflake.
+**🔹 Snowflake Real-Time Stock Data Pipeline**
+Built a real-time data ingestion and transformation pipeline using Snowflake and AWS S3, loading stock market CSV data for downstream analytics and BI use.
 
 ---
 
 ## 📚 Certifications
-
-- **Data Analytics Job Simulation** - Deloitte
+- **Deploying and Maintaining Assets in Power BI** – DataCamp
 - **Google Cloud Certified Professional Data Engineer** – Udemy
-- **Solution Architecture Job Simulation** – AWS
-- **Analyzing Big Data with SQL** - CLOUDERA
-- **Introduction To Data Engineering** - IBM
-- **ETL and Data Pipelines with Shell,Airflow and Kafka** - IBM
-- **Tableau vs Google Looker For Enterprise Data Visualization** - Udemy  
+- **Tableau vs Google Looker for Enterprise Data Visualization** – Udemy
+- **Cloud Data Engineer** – SMIT
+- **Analyzing Big Data with SQL** – Cloudera
+- **Introduction to Data Engineering** – IBM
+- **Certified Advanced Excel Expert** – Udemy
 
 ---
-
 
 ## 🌐 Let's Connect
-
-- 📫 Email: [shaikhmairaj075@gmail.com](mailto:shaikhmairaj075@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/mairaj-shaikh](https://www.linkedin.com/in/mairaj-shaikh-14b885324/)  
-- 💻 GitHub: [https://github.com/shaikhmairaj](https://github.com/shaikhmairaj)
+- 📫 Email: [shaikhmairaj075@gmail.com](mailto:shaikhmairaj075@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mairaj-shaikh](https://www.linkedin.com/in/mairaj-shaikh-14b885324/)
+- 💻 GitHub: [github.com/shaikhmairaj](https://github.com/shaikhmairaj)
 
 ---
 
->                    “Turning raw data into reliable pipelines and actionable insights — 
-                      that’s the craft of a Data Engineer and the vision of a Data Analyst.” 
+> "Turning raw data into reliable pipelines and actionable insights —
+> that's the craft of a Data Analyst and the vision of a BI Developer."
